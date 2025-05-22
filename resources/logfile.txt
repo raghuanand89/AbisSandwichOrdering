@@ -1,0 +1,10 @@
+2025-05-20 16:42:28.897;SINGH;Raghunath;JAVA;Cheese;BROWN;Hollandse kaas;;Yes;4.3;null
+2025-05-20 16:42:28.915;SINGH;Raghunath;JAVA;Special;WHITE;Pinky;Sla, tomaat, ei, haringfilet, tartaar;No;5.78;null
+2025-05-20 16:42:28.915;GARAIN;Patrick;C++;Cheese;BROWN;Hollandse kaas;;Yes;4.3;null
+2025-05-20 16:42:28.915;VITRY;Alain;JAVA;Meat;WHITE;Salami;;No;2.5;no egg in sandwich
+2025-05-20 16:42:28.915;VITRY;Alain;JAVA;Special;BROWN;Florida;Sla, ananas, kipfilet, cocktailsaus;No;5.89;no egg in sandwich
+2025-05-20 20:20:50.497;SINGH;Raghunath;JAVA;Cheese;BROWN;Hollandse kaas;;Yes;4.3;null
+2025-05-20 20:20:50.528;SINGH;Raghunath;JAVA;Special;WHITE;Pinky;Sla, tomaat, ei, haringfilet, tartaar;No;5.78;null
+2025-05-20 20:20:50.528;GARAIN;Patrick;C++;Cheese;BROWN;Hollandse kaas;;Yes;4.3;null
+2025-05-20 20:20:50.528;VITRY;Alain;JAVA;Meat;WHITE;Salami;;No;2.5;no egg in sandwich
+2025-05-20 20:20:50.528;VITRY;Alain;JAVA;Special;BROWN;Florida;Sla, ananas, kipfilet, cocktailsaus;No;5.89;no egg in sandwich
