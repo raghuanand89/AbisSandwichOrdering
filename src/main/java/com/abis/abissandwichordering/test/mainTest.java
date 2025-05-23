@@ -1,5 +1,6 @@
 package com.abis.abissandwichordering.test;
 
+import com.abis.abissandwichordering.exceptions.MaxLimitReachedException;
 import com.abis.abissandwichordering.model.*;
 import com.abis.abissandwichordering.repository.OrderRepository;
 import com.abis.abissandwichordering.repository.PersonRepository;
@@ -8,7 +9,7 @@ import com.abis.abissandwichordering.repository.SandwichRepository;
 import java.io.IOException;
 
 public class mainTest {
-    public static void main(String[] args) throws IOException {
+    public static void main(String[] args) throws IOException, MaxLimitReachedException {
 /*        Sandwich sandwich = new SpecialSandwich();
 
         SpecialSandwich specialSandwich = new SpecialSandwich("Special","Cocktail","ouef, sauce cocktail, crudites","Cocktail","eiren, cocktailsaus, salade",5.75);
@@ -58,15 +59,19 @@ public class mainTest {
         //manager.addEntryToCSV(normalSandwich);
 /*
         Person manager1 = new Manager("Hailey", "Reeds", "h-reeds@gmail.com");
+        ((Manager)manager1).addEntryToCSV(new Sandwich("Special","Cheesy-FR","Contents-FR","Cheesy-NL","Contents-NL",5.50));
 
-        Person student = new Student("Lena", "Samuels", "l-samuels@gmail.com");
-        //Person student = new Student("Lena", "Samuels", "l-samuels@gmail.com");
+        System.out.println(personRepository.getStudentsByCourse("java"));
+//        System.out.println(personRepository.getStudentsByCourse("c++"));
 
-        Order order = new Order();
-        order.addNewOrder(student, specialSandwich, "gluten-free" );
-        order.addSandwich(sandwich);
-        System.out.println(order);
-*/
+
+ */
+
+
+
+
+
+
 
     }
 }

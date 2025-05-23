@@ -23,6 +23,16 @@ public class Sandwich {
         this.breadType = breadType;
     }
 
+    public Sandwich(String sandwichType, String sandwichNameFR, String sandwichContentFR, String sandwichNameNL, String sandwichContentNL, double price) {
+        this.sandwichType = sandwichType;
+        this.sandwichNameFR = sandwichNameFR;
+        this.sandwichContentFR = sandwichContentFR;
+        this.sandwichNameNL = sandwichNameNL;
+        this.sandwichContentNL = sandwichContentNL;
+        this.price = price;
+
+    }
+
     public String getSandwichContentFR() {
         return sandwichContentFR;
     }

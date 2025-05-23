@@ -43,3 +43,43 @@ SINGH     Raghunath      JAVA      Special        WHITE          Pinky          
 GARAIN    Patrick        C++       Cheese         BROWN          Hollandse kaas                                                        Yes       
 VITRY     Alain          JAVA      Meat           WHITE          Salami                                                                No        
 VITRY     Alain          JAVA      Special        BROWN          Florida             Sla, ananas, kipfilet, cocktailsaus               No        
+SINGH     Raghunath      JAVA      Cheese         BROWN          Hollandse kaas                                                        Yes       
+SINGH     Raghunath      JAVA      Special        WHITE          Pinky               Sla, tomaat, ei, haringfilet, tartaar             No        
+GARAIN    Patrick        C++       Cheese         BROWN          Hollandse kaas                                                        Yes       
+VITRY     Alain          JAVA      Meat           WHITE          Salami                                                                No        
+VITRY     Alain          JAVA      Special        BROWN          Florida             Sla, ananas, kipfilet, cocktailsaus               No        
+SINGH     Raghunath      JAVA      Cheese         BROWN          Hollandse kaas                                                        Yes       
+SINGH     Raghunath      JAVA      Special        WHITE          Pinky               Sla, tomaat, ei, haringfilet, tartaar             No        
+GARAIN    Patrick        C++       Cheese         BROWN          Hollandse kaas                                                        Yes       
+VITRY     Alain          JAVA      Meat           WHITE          Salami                                                                No        
+VITRY     Alain          JAVA      Special        BROWN          Florida             Sla, ananas, kipfilet, cocktailsaus               No        
+SINGH     Raghunath      JAVA      Cheese         BROWN          Hollandse kaas                                                        Yes       
+SINGH     Raghunath      JAVA      Special        WHITE          Pinky               Sla, tomaat, ei, haringfilet, tartaar             No        
+GARAIN    Patrick        C++       Cheese         BROWN          Hollandse kaas                                                        Yes       
+VITRY     Alain          JAVA      Meat           WHITE          Salami                                                                No        
+VITRY     Alain          JAVA      Special        BROWN          Florida             Sla, ananas, kipfilet, cocktailsaus               No        
+SINGH     Raghunath      JAVA      Cheese         BROWN          Hollandse kaas                                                        Yes       
+SINGH     Raghunath      JAVA      Special        WHITE          Pinky               Sla, tomaat, ei, haringfilet, tartaar             No        
+GARAIN    Patrick        C++       Cheese         BROWN          Hollandse kaas                                                        Yes       
+VITRY     Alain          JAVA      Meat           WHITE          Salami                                                                No        
+VITRY     Alain          JAVA      Special        BROWN          Florida             Sla, ananas, kipfilet, cocktailsaus               No        
+SINGH     Raghunath      JAVA      Cheese         BROWN          Hollandse kaas                                                        Yes       
+SINGH     Raghunath      JAVA      Special        WHITE          Pinky               Sla, tomaat, ei, haringfilet, tartaar             No        
+GARAIN    Patrick        C++       Cheese         BROWN          Hollandse kaas                                                        Yes       
+VITRY     Alain          JAVA      Meat           WHITE          Salami                                                                No        
+VITRY     Alain          JAVA      Special        BROWN          Florida             Sla, ananas, kipfilet, cocktailsaus               No        
+SINGH     Raghunath      JAVA      Cheese         BROWN          Hollandse kaas                                                        Yes       
+SINGH     Raghunath      JAVA      Special        WHITE          Pinky               Sla, tomaat, ei, haringfilet, tartaar             No        
+GARAIN    Patrick        C++       Cheese         BROWN          Hollandse kaas                                                        Yes       
+VITRY     Alain          JAVA      Meat           WHITE          Salami                                                                No        
+VITRY     Alain          JAVA      Special        BROWN          Florida             Sla, ananas, kipfilet, cocktailsaus               No        
+SINGH     Raghunath      JAVA      Cheese         BROWN          Hollandse kaas                                                        Yes       
+SINGH     Raghunath      JAVA      Special        WHITE          Pinky               Sla, tomaat, ei, haringfilet, tartaar             No        
+GARAIN    Patrick        C++       Cheese         BROWN          Hollandse kaas                                                        Yes       
+VITRY     Alain          JAVA      Meat           WHITE          Salami                                                                No        
+VITRY     Alain          JAVA      Special        BROWN          Florida             Sla, ananas, kipfilet, cocktailsaus               No        
+SINGH     Raghunath      JAVA      Cheese         BROWN          Hollandse kaas                                                        Yes       
+SINGH     Raghunath      JAVA      Special        WHITE          Pinky               Sla, tomaat, ei, haringfilet, tartaar             No        
+GARAIN    Patrick        C++       Cheese         BROWN          Hollandse kaas                                                        Yes       
+VITRY     Alain          JAVA      Meat           WHITE          Salami                                                                No        
+VITRY     Alain          JAVA      Special        BROWN          Florida             Sla, ananas, kipfilet, cocktailsaus               No        

@@ -1,5 +1,7 @@
 package com.abis.abissandwichordering.model;
 
+import com.abis.abissandwichordering.exceptions.MaxLimitReachedException;
+
 import java.util.ArrayList;
 
 public class Order {
@@ -27,11 +29,11 @@ public class Order {
             throw new RuntimeException("Maximum sandwiches reached (2)");
         }
     }
-    public void addSandwich(Sandwich sandwich) {
+    public void addSandwich(Sandwich sandwich) throws MaxLimitReachedException {
         if (sandwiches.size() < 2) {
             sandwiches.add(sandwich);
         } else {
-            throw new RuntimeException("Maximum sandwiches reached (2)");
+            throw new MaxLimitReachedException("Maximum sandwiches reached (2)");
         }
     }
 
